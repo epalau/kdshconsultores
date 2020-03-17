@@ -1,0 +1,20 @@
+@media (min-width: 320px) and (max-width: 427px) {
+    .logoSlogan h5 {
+        font-size: 1rem;
+    }
+    .quote h4 {
+        font-size: 1rem;
+    }
+    .nav.nav-pills .nav-item {
+        width: 100%;
+    }
+    .indicadores ul li {
+        font-size: 0.8rem;
+    }
+    .social {
+        padding-top: 0 !important;
+    }
+    .social .row:first-child {
+        padding-top: 0 !important;
+    }
+}

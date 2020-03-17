@@ -1,0 +1,119 @@
+.logoBold {
+    font-weight: bolder;
+    font-size: 1rem;
+}
+
+#kd {
+    color: #002060;
+}
+
+#sh {
+    color: #00B0F0;
+}
+
+#sas {
+    font-weight: bold;
+}
+
+#pills-servicios p {
+    text-align: justify;
+}
+
+.tab-content .card-group .card {
+    margin: 0 15px;
+}
+
+.logoSlogan {
+    min-height: 100%;
+    min-width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.logoSlogan h5 {
+    margin: 0;
+    width: 100%;
+    color: grey;
+}
+
+.linksMenu i {
+    font-size: 2.5rem;
+}
+
+.linksMenu i.fa-whatsapp {
+    color: #00B0F0;
+}
+
+.linksMenu i.fa-envelope {
+    color: #002060;
+}
+
+.linksMenu table td {
+    padding: 0 30px 0 30px;
+    text-align: center
+}
+
+#pills-servicios span a {
+    font-size: 1.1rem;
+}
+
+#pills-servicios .nav-pills .nav-link.active {
+    background-color: #002060;
+}
+
+#pills-servicios span:first-child a {
+    font-size: 1.3rem;
+    color: #00B0F0;
+    font-weight: 400;
+}
+
+#pills-servicios span:first-child a i {
+    margin-right: 14px;
+    color: #002060
+}
+
+.nav-pills .nav-item .nav-link {
+    color: #00B0F0;
+    font-weight: 600;
+}
+
+footer .social p {
+    font-size: 1rem;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+footer .social i {
+    font-size: 3rem;
+}
+
+
+/* .logoFooter img {
+    width: 35%;
+} */
+
+.indicadores {
+    padding: 0;
+}
+
+.indicadores ul {
+    padding: 0;
+    list-style: none;
+}
+
+.indicadores#nombres li {
+    font-weight: 600;
+}
+
+.indicadores#valores li {
+    color: #00B0F0;
+}
+
+.credits .d-table-cell {
+    width: 5%;
+}
+
+.credits button.btn-sm {
+    font-size: 0.6rem;
+}
