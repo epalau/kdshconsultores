@@ -11,7 +11,7 @@ module.exports = (formulario) => {
     });
     const mailOptions = {
         from: `”${formulario.nombre}” <${formulario.email}>`,
-        to: 'epalau@gmail.com',
+        to: 'gerencia@kdshconsultores.com',
         subject: formulario.asunto,
         html: `
  <strong>Nombre:</strong> ${formulario.nombre} <br/>
